@@ -1,0 +1,8 @@
+# Archivos compilados/Compras_internet/nbproject/private/
+*.class
+# Carpetas de build
+/build/ /dist/ /nbbuild/ /nbdist/ /nbproject/private/
+# Logs
+*.log
+# Archivos temporales
+*.tmp
